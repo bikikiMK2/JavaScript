@@ -1,2 +1,2 @@
 const PI = 3.14;
-console.log(pi);
+console.log(PI);
